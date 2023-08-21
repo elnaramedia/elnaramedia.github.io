@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ELNARA DESIGN"
+title                    : "Elnara Mammadova"
 title_separator          : "-"
 name                     : &name "Elnara Mammadova"
 description              : &description "Doctoral Researcher at Purdue University"
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "elnaramammadova8274"
   wikipedia        :
 
 
