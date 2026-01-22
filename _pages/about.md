@@ -10,8 +10,8 @@ redirect_from:
 
 
 My name is Elnara. I was born and grew up in Azerbaijan. What?! ​I heard your question. (: I know, sometimes it is hard to pronounce the name of my country on the first try. Let's practice. Use your four fingers and name them: 
-(1)A/ˌɑː /
-(2)zer /zɚ/
+*(1)A/ˌɑː /
+*(2)zer /zɚ/
 (3)bai /baɪˈ/
 (4)djan /dʒɑːn/
 
