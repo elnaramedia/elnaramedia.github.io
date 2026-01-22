@@ -8,8 +8,8 @@ venue: 'Journal of Research on Technology in Education'
 paperurl: 'https://doi.org/10.1080/15391523.2025.2586528'
 citation: 'Koehler, A. A., Mohandas, L., Mentzer, N., & Mammadova, E. (2025). Teaching across modalities: Examining instructor presence in HyFlex environments. Journal of Research on Technology in Education, 1-21.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Using the Community of Inquiry (CoI), this study explores how instructors establish presence in HyFlex learning environments.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Koehler, A. A., Mohandas, L., Mentzer, N., & Mammadova, E. (2025). Teaching across modalities: Examining instructor presence in HyFlex environments. <i>Journal of Research on Technology in Education</i>, , 1-21.
