@@ -10,4 +10,4 @@ citation: 'Koehler, A. A., Mohandas, L., Mentzer, N., & Mammadova, E. (2025). Te
 ---
 Using the Community of Inquiry (CoI), this study explores how instructors establish presence in HyFlex learning environments.
 
-[Download paper here](http://elnaramedia.github.io/files/Teaching across modalities  Examining instructor presence in HyFlex environments.pdffiles/Teaching across modalities  Examining instructor presence in HyFlex environments.pdf)
+[Download paper here](http://elnaramedia.github.io/files/teaching_across_modalities_examining_instructor_presence_in_hyflex_environments.pdf)
