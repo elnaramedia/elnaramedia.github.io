@@ -8,6 +8,5 @@ venue: 'Journal of Research on Technology in Education'
 paperurl: 'https://doi.org/10.1080/15391523.2025.2586528'
 citation: 'Koehler, A. A., Mohandas, L., Mentzer, N., & Mammadova, E. (2025). Teaching across modalities: Examining instructor presence in HyFlex environments. Journal of Research on Technology in Education, 1-21.'
 ---
-Using the Community of Inquiry (CoI), this study explores how instructors establish presence in HyFlex learning environments.
 
 [Download paper here](http://elnaramedia.github.io/files/teaching_across_modalities_examining_instructor_presence_in_hyflex_environments.pdf)
