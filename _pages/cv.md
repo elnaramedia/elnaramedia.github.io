@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Technology, Purdue University, Summer 2026 (expected)
+* M.S. in Teaching and Curriculum, Syracuse University, NY
+* B.S. in Special Education and Teaching, Azerbaijani State Pedagogical University, Baku
+
 
 Work experience
 ======
@@ -56,4 +57,24 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+**Conference & Society**
+Mammadova, E. (Chair). (April 2026). Bridging Gaps: AI and Digital Learning for Diverse Learners. [Paper session, Division C - Learning and Instruction / Division C - Section 3b: Technology-Based Environments]. AERA 2026, Los Angeles, CA. 
+Mammadova, E. (Chair). (April 2025). Policy Perspectives on Inclusive Education: Global and Local Insights [Roundtable Session, Special and Inclusive Education Research SIG, Table 4]. In Tian, B., Voulgarides, K. C., Aylward, A., Firestone, A., Ahram, R., Strassfeld, M. N., Omarova, N., Du, Y., Zhu, B., Chen, Y., Lu, S., Zhu, Z., (Discussants). AERA 2025, Denver, CO
+2026	Ad-Hoc Journal Reviewer, Journal of Applied Instructional Design, AECT
+2026	Reviewer, AECT International Convention 
+2024-present	Reviewer, AERA Annual Conference
+2024-2026	Senior Graduate Student Representative, Special and Inclusive Education Research SIG, AERA
+2023-2024	Judge in competition, Technology Student Association, Indiana
+2020-2021	Design Team Lead, Global Digital Library 🌐 Link
+
+**Institutional Leadership**
+2024-2026	Student Vise-President, Honor Society of Phi Kappa Phi (ФКФ), Purdue Chapter
+2024-2025	President, Polytechnic Graduate Student Organization, Purdue University
+2023-2025	Poster Day Planning Committee Member, Polytechnic Purdue University 
+2023-2025	Mentoring, Graduate students from different universities and fields
+2023-2024	Vice Chair of Accessibility Grant, Purdue Graduate Student Government (PGSG)
+2022-2023	Parliamentarian, Legislative Review Committee Chair, PGSG
+
+Other
+2018		Volunteer, Send Relief, Rebuild Puerto Rico after Hurricane Maria
+
